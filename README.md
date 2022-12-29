@@ -1,5 +1,5 @@
 ### 👋 Hola, soy Martín La Rosa
-Actualmente me encuentro realizando el último año de la Tecnicatura en Programación de Sistemas.>
+Actualmente me encuentro realizando el último año de la Tecnicatura en Programación de Sistemas.(>)
 Te invito a ver alguno de los proyectos que estuve realizando en los últimos meses. 🤙
 
 Mi sitio web [martinlarosa.netlify.com](https://https://martinlarosa.netlify.app/)
