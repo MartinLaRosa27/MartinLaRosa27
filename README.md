@@ -3,7 +3,7 @@ Actualmente me encuentro realizando el último año de la **Tecnicatura en Progr
 Te invito a ver alguno de los más de 45 proyectos que estuve realizando en los últimos meses.  
 Las tecnologías utilizadas en los mismos fueron principalmente *ReactJs, NextJs, NodeJs, MySQL, MongoDB*, entre otras. 🤓
 
-👉 Mi [cuenta de Linkedin](https://www.linkedin.com/in/martin-la-rosa/)  
+<!--👉 Mi [cuenta de Linkedin](https://www.linkedin.com/in/martin-la-rosa/)--> 
 👉 Mi sitio web personal [martinlarosa.netlify.com](https://martinlarosa.netlify.app)
 
 <!--
