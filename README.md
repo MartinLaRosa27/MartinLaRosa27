@@ -3,7 +3,8 @@ Actualmente me encuentro realizando el último año de la **Tecnicatura en Progr
 Te invito a ver alguno de los más de 45 proyectos que estuve realizando en los últimos meses.  
 Las tecnologías utilizadas en los mismos fueron principalmente *ReactJs, NextJs, NodeJs, MySQL, MongoDB*, entre otras. 🤓
 
-Mi sitio web personal [martinlarosa.netlify.com](https://martinlarosa.netlify.app)
+👉 Mi [cuenta de Linkedin](https://www.linkedin.com/in/martin-la-rosa/)
+👉 Mi sitio web personal [martinlarosa.netlify.com](https://martinlarosa.netlify.app)
 
 <!--
 **MartinLaRosa27/MartinLaRosa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
