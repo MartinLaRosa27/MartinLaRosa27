@@ -1,7 +1,7 @@
-### 👋⚡ Hola, soy *Martín La Rosa*
-Actualmente me encuentro realizando el último año de la **Tecnicatura en Programación de Sistemas**. 🤙  
-Te invito a ver alguno de los más de 45 proyectos que estuve realizando en los últimos meses.  
-Las tecnologías utilizadas en los mismos fueron principalmente *ReactJs, NextJs, NodeJs, MySQL, MongoDB*, entre otras. 🤓
+## 👋⚡ Hola, soy *Martín La Rosa*
+### Actualmente me encuentro realizando el último año de la **Tecnicatura en Programación de Sistemas**. 🤙  
+### Te invito a ver alguno de los más de 45 proyectos que estuve realizando en los últimos meses.  
+L### as tecnologías utilizadas en los mismos fueron principalmente *ReactJs, NextJs, NodeJs, MySQL, MongoDB*, entre otras. 🤓
 
 # Habilidades 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
