@@ -3,7 +3,7 @@ Actualmente me encuentro realizando el último año de la **Tecnicatura en Progr
 Te invito a ver alguno de los más de 45 proyectos que estuve realizando en los últimos meses.  
 Las tecnologías utilizadas en los mismos fueron principalmente *ReactJs, NextJs, NodeJs, MySQL, MongoDB*, entre otras. 🤓
 
-Conocimientos Principales:
+Conocimientos Principales:  
 ![js](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
