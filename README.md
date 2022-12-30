@@ -17,6 +17,7 @@ Las tecnologías utilizadas en los mismos fueron principalmente *ReactJs, NextJs
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+# Contacto
 <!--👉 Mi [cuenta de Linkedin](https://www.linkedin.com/in/martin-la-rosa/)--> 
 👉 Mi sitio web personal [martinlarosa.netlify.com](https://martinlarosa.netlify.app)
 
