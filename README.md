@@ -18,7 +18,7 @@
 
 # Contacto
 <!--👉 Mi [cuenta de Linkedin](https://www.linkedin.com/in/martin-la-rosa/)--> 
-### 👉 Proyecto Destacado [PopStore](https://github.com/MartinLaRosa27/PopStoreV2-NextJs)
+### 👉 Proyecto Destacado [PopStoreV2-NextJs](https://github.com/MartinLaRosa27/PopStoreV2-NextJs)
 ### 👉 Mi sitio web personal [martinlarosa.netlify.com](https://martinlarosa.netlify.app)
 
 <!--
