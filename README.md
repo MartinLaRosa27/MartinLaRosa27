@@ -1,5 +1,5 @@
 ## 👋⚡ Hola, soy *Martín La Rosa*
-### Actualmente me cursando el último año de la ***Tecnicatura en Programación de Sistemas***. 🤙  
+### Actualmente me encuentro cursando el último año de la ***Tecnicatura en Programación de Sistemas***. 🤙  
 ### Te invito a ver alguno de los más de 45 proyectos que estuve realizando en los últimos meses.  Las tecnologías más utilizadas en los mismos fueron principalmente *ReactJs, NextJs, NodeJs, MySQL, MongoDB*, entre otras. 🤓
 
 # Habilidades 
