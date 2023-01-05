@@ -17,8 +17,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Contacto
-<!--👉 Mi [cuenta de Linkedin](https://www.linkedin.com/in/martin-la-rosa/)--> 
-### 👉 Proyecto Destacado [PopStoreV2-NextJs](https://github.com/MartinLaRosa27/PopStoreV2-NextJs)
+### Mi [cuenta de Linkedin](https://www.linkedin.com/in/martin-la-rosa/)
 ### 👉 Mi sitio web personal [larosamartin.com.ar](https://larosamartin.com.ar/)
 
 <!--
