@@ -1,8 +1,8 @@
-## 👋⚡ Hola, soy *Martín La Rosa*
-### Actualmente me encuentro cursando el último año de la ***Tecnicatura en Programación de Sistemas***. 🤙  
-### Te invito a ver alguno de los más de 45 proyectos que estuve realizando en los últimos meses.  Las tecnologías más utilizadas en los mismos fueron principalmente *ReactJs, NextJs, NodeJs, MySQL, MongoDB*, entre otras. 🤓
+## 👋⚡ Hi, I'm *Martín La Rosa*
+### I am currently studying the last year of the ***Systems Programming technique***. 🤙
+### I invite you to see some of the more than 50 projects that i've been doing in the recent months. The technologies most used in them were mainly *ReactJs, NextJs, NodeJs, MySQL, MongoDB*, among others. 🤓
 
-# Habilidades 
+# Skills 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -17,8 +17,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Contacto
-### 👉 Mi [cuenta de Linkedin](https://www.linkedin.com/in/martin-la-rosa/)
-### 👉 Mi sitio web personal [larosamartin.com.ar](https://larosamartin.com.ar/)
+### 👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)
+### 👉 My personal web site [larosamartin.com.ar](https://larosamartin.com.ar/)
 
 <!--
 **MartinLaRosa27/MartinLaRosa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
