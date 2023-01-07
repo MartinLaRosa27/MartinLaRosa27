@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Contacto
+# Contact
 ### 👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)
 ### 👉 My personal web site [larosamartin.com.ar](https://larosamartin.com.ar/)
 
