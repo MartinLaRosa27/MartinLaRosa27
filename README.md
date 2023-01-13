@@ -22,4 +22,4 @@
 ## Contact
 ### 👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)
 [larosamartin.com.ar](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
-[[larosamartin.com.ar](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://larosamartin.com.ar/)
+[(https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://larosamartin.com.ar/)
