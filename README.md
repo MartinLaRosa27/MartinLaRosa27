@@ -21,5 +21,5 @@ I invite you to see some of the more than 50 projects that i've been doing in th
 
 
 ## Contact
-👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)
+👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)   
 👉 My Website [larosamartin.com.ar](https://larosamartin.com.ar/)
