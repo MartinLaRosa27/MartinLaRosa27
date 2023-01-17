@@ -1,6 +1,6 @@
 ## 👋⚡ Hi, I'm *Martín La Rosa*
-### I am currently studying the last year of the ***Systems Programming Technique***. 🤙
-### I invite you to see some of the more than 50 projects that i've been doing in the recent months. The technologies most used in them were mainly *ReactJs, NextJs, NodeJs, MySQL, MongoDB, GraphQL*, among others. 🤓
+I am currently studying the last year of the ***Systems Programming Technique***. 🤙
+I invite you to see some of the more than 50 projects that i've been doing in the recent months. The technologies most used in them were mainly *ReactJs, NextJs, NodeJs, MySQL, MongoDB, GraphQL*, among others. 🤓
 
 
 ## Skills 
@@ -20,5 +20,5 @@
 
 
 ## Contact
-### 👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)
-### 👉 My Website [larosamartin.com.ar](https://larosamartin.com.ar/)
+👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)
+👉 My Website [larosamartin.com.ar](https://larosamartin.com.ar/)
