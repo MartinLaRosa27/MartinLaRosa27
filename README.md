@@ -1,5 +1,5 @@
 ## 👋⚡ Hi, I'm *Martín La Rosa*
-I am currently studying the last year of the ***Systems Programming Technique***. 🤙   
+I'm currently studying the last year of the ***Degree In Systems Programming***. 🤙   
 
 I invite you to see some of the more than 50 projects that i've been doing in the recent months. The technologies most used in them were mainly *ReactJs, NextJs, NodeJs, MySQL, MongoDB, GraphQL*, among others. 🤓
 
