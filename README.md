@@ -4,8 +4,8 @@ I'm currently studying the last year of the ***Degree In Systems Programming***.
 I invite you to see some of the more than 50 projects that i've been doing in the recent months. The technologies most used in them were mainly *ReactJs, NextJs, NodeJs, MySQL, MongoDB, GraphQL*, among others. 🤓
 
 ## My Favorite Projects 
-👉 [Instact](https://github.com/MartinLaRosa27/Instact-ReactJs/)  
-👉 [MyClients](https://github.com/MartinLaRosa27/MyClientsV2-ReactJs)  
+👉 [Instact](https://github.com/MartinLaRosa27/Instact)  
+👉 [MyClients](https://github.com/MartinLaRosa27/MyClients)  
 
 ## Skills 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
