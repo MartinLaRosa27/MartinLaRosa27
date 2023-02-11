@@ -8,7 +8,7 @@ I invite you to see some of the projects that i've been doing in the last years.
 👉 [Instact](https://github.com/MartinLaRosa27/Instact)  
 👉 [MyClients](https://github.com/MartinLaRosa27/MyClients)  
 
-## Skills 
+## 🛠️ Skills 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -25,6 +25,6 @@ I invite you to see some of the projects that i've been doing in the last years.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-## Contact
+## 💬 Contact
 👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)   
 👉 My Website [larosamartin.com.ar](https://larosamartin.com.ar/)
