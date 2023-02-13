@@ -27,5 +27,6 @@ I invite you to see some of the projects that i've been doing in the last years.
 
 
 ## 💬 Contact
-👉 My [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)   
-👉 My Website [larosamartin.com.ar](https://larosamartin.com.ar/)
+📨 martinlarosa27@gmail.com
+💼 [Linkedin account](https://www.linkedin.com/in/martin-la-rosa/)   
+🌐 [larosamartin.com.ar](https://larosamartin.com.ar/)
