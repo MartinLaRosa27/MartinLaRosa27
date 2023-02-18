@@ -28,5 +28,5 @@ I invite you to see some of the projects that i've been doing in the last years.
 
 
 ## 💬 Contact
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-la-rosa/)  
 📨 martinlarosa27@gmail.com   
-💼 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-la-rosa/)  
